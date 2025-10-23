@@ -49,8 +49,8 @@ The dataset includes multiple attributes such as:
 
 | Model | Accuracy | Notes |
 |--------|-----------|--------|
-| Decision Tree | 0.9811 | Memberikan hasil akurasi tinggi dengan sedikit kesalahan pada kelas “Diduga Diabetes”; model cukup baik namun masih berpotensi overfitting |
-| Random Forest | 1.0000 | Mampu memprediksi seluruh kelas dengan sempurna tanpa kesalahan; menunjukkan generalisasi yang sangat baik |
-| SVM | 0.9057 | Memiliki performa cukup baik namun cenderung kesulitan membedakan kelas “Diduga Diabetes”; sensitif terhadap skala fitur dan parameter kernel |
+| Decision Tree | 0.9811 | Produced high accuracy with minor misclassification in the “Prediabetic” class; performs well but shows potential signs of overfitting |
+| Random Forest | 1.0000 | Successfully predicted all classes without any errors, demonstrating excellent generalization capability |
+| SVM | 0.9057 | Performed reasonably well but struggled to distinguish the “Prediabetic” class; sensitive to feature scaling and kernel parameter settings |
 
 ---
