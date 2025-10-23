@@ -22,7 +22,8 @@ The dataset includes multiple attributes such as:
 | Cr (Creatinine) | Measures the level of creatinine in the blood (mg/dL). Creatinine is an indicator of kidney function; elevated levels may suggest impaired kidney function often associated with diabetes. Normal range: 0.6–1.3 mg/dL |
 | HbA1c (Glycated Hemoglobin) | A key indicator of average blood glucose levels over the past 2–3 months, expressed as a percentage. (Normal: <5.7% ; Prediabetic: 5.7–6.4% ; Diabetic: ≥6.5%) |
 | Chol (Cholesterol) | Total cholesterol in the blood (mg/dL). High cholesterol increases the risk of cardiovascular disease and is commonly seen in diabetic individuals. Normal range: <200 mg/dL |
-| TG (Triglycerides) | Measures the amount of fat in the blood (mg/dL). High triglycerides are associated with insulin resistance and metabolic syndrome. Normal range: <150 mg/dL |
+| TG (Triglycerides) | Measures the amount of fat in the blood (mg/dL). High triglycerides are associated with insulin resistance and metabolic syndrome. 
+Normal range: <150 mg/dL |
 | HDL (High-Density Lipoprotein) | The “good” cholesterol (mg/dL). Higher levels are beneficial, helping remove excess cholesterol from the bloodstream. (Ideal: >40 mg/dL (men) ; >50 mg/dL (women)) |
 | LDL (Low-Density Lipoprotein) | The “bad” cholesterol (mg/dL). High levels contribute to plaque buildup in arteries. Optimal range: <100 mg/dL |
 | VLDL (Very Low-Density Lipoprotein) | Another type of “bad” cholesterol that carries triglycerides. Often estimated as TG/5. Normal range: 2–30 mg/dL |
