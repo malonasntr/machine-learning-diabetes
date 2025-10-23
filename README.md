@@ -45,19 +45,11 @@ The dataset includes multiple attributes such as:
 ---
 
 ## Results Summary
+
 | Model | Accuracy | Notes |
 |--------|-----------|--------|
-| Logistic Regression | — | Baseline model |
-| Random Forest | — | Best performance on recall |
-| SVM | — | Moderate accuracy |
-| XGBoost | — | Best overall accuracy |
-
-*(Fill in the performance metrics after training.)*
+| Decision Tree | 0.9811 | Memberikan hasil akurasi tinggi dengan sedikit kesalahan pada kelas “Diduga Diabetes”; model cukup baik namun masih berpotensi overfitting |
+| Random Forest | 1.0000 | Mampu memprediksi seluruh kelas dengan sempurna tanpa kesalahan; menunjukkan generalisasi yang sangat baik |
+| SVM | 0.9057 | Memiliki performa cukup baik namun cenderung kesulitan membedakan kelas “Diduga Diabetes”; sensitif terhadap skala fitur dan parameter kernel |
 
 ---
-
-## 🧩 Requirements
-If you want to run this project locally:
-
-```bash
-pip install pandas numpy scikit-learn xgboost matplotlib seaborn
