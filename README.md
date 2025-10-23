@@ -1,33 +1,17 @@
-# Multiclass Diabetes Classification
-
-This project uses a multiclass diabetes dataset from [Kaggle](https://www.kaggle.com/datasets/yasserhessein/multiclass-diabetes-dataset) 
-to build and evaluate machine learning models.
-
-## Contents
-- `machine_learning.ipynb` — main notebook with preprocessing, model training, and evaluation.
-- Dataset: Kaggle link above.
-
-## Models Used
-- Logistic Regression
-- Random Forest
-- XGBoost
-- SVM
-
 # 🩺 Multiclass Diabetes Classification
-
 This project aims to classify diabetes into multiple categories using a dataset from [Kaggle](https://www.kaggle.com/datasets/yasserhessein/multiclass-diabetes-dataset).  
 Machine learning algorithms are applied to analyze patient data and predict the level or type of diabetes based on several medical attributes.
 
 ---
 
-## 🚀 Open in Google Colab
+## Open in Google Colab
 Click the badge below to run the notebook directly in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malonasntr/machine-learning-diabetes/blob/0d5bcbd4fc725d1fa9c9d6b248e9586f20d8e87f/machine_learning.ipynb)
 
 ---
 
-## 📊 Dataset
+## Dataset
 **Source:** [Multiclass Diabetes Dataset – Kaggle](https://www.kaggle.com/datasets/yasserhessein/multiclass-diabetes-dataset)
 
 The dataset includes multiple attributes such as:
@@ -42,7 +26,7 @@ The dataset includes multiple attributes such as:
 
 ---
 
-## 🧠 Machine Learning Workflow
+## Machine Learning Workflow
 1. **Data Preprocessing**
    - Handle missing values  
    - Encode categorical variables  
@@ -61,7 +45,7 @@ The dataset includes multiple attributes such as:
 
 ---
 
-## 📈 Results Summary
+## Results Summary
 | Model | Accuracy | Notes |
 |--------|-----------|--------|
 | Logistic Regression | — | Baseline model |
