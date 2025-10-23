@@ -23,7 +23,7 @@ Machine learning algorithms are applied to analyze patient data and predict the 
 ## 🚀 Open in Google Colab
 Click the badge below to run the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malonasntr/multiclass-diabetes-ml/blob/main/machine_learning.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malonasntr/multiclass-diabetes-ml/blob/master/machine_learning.ipynb)
 
 ---
 
