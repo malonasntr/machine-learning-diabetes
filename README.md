@@ -16,4 +16,4 @@ to build and evaluate machine learning models.
 ## Author
 Malona Sarma Elvita
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malonasntr/multiclass-diabetes-ml/blob/main/machine_learning.ipynb)
+[![Open In Colab][(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/malonasntr/multiclass-diabetes-ml/blob/main/machine_learning.ipynb)](https://drive.google.com/file/d/1x8SoZKm_dt5_QCFHFwkLoDuIEMC225N1/view?usp=sharing)
