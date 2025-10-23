@@ -11,8 +11,6 @@ Click the badge below to run the notebook directly in Google Colab:
 ---
 
 ## Dataset
-**Source:** [Multiclass Diabetes Dataset – Kaggle](https://www.kaggle.com/datasets/yasserhessein/multiclass-diabetes-dataset)
-
 The dataset includes multiple attributes such as:
 | Feature | Description |
 |--------|-----------|
