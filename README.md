@@ -12,8 +12,3 @@ to build and evaluate machine learning models.
 - Random Forest
 - XGBoost
 - SVM
-
-## Author
-Malona Sarma Elvita
-
-[![Open In Colab]https://colab.research.google.com/github/malonasntr/multiclass-diabetes-ml/blob/main/machine_learning.ipynb
